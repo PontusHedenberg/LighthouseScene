@@ -1,0 +1,517 @@
+"D:/Epic Games/Projects/LighthouseScene/Content/MyLevelSequence.uasset" 0
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Bridge/bridgeWood.uasset" 1
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Bridge/Wood.uasset" 2
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Lamp/LampBase.uasset" 3
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Lamp/LightHouseLamp.uasset" 4
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Nature/Bark.uasset" 5
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Nature/BushFlowerRedMat.uasset" 6
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Nature/BushFlowerWhiteMat.uasset" 7
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Nature/BushMat.uasset" 8
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Nature/Leafs.uasset" 9
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Nature/StoneMat.uasset" 10
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Basic_Wall.uasset" 11
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/Pillar_50x500.uasset" 12
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/Wall_400x300.uasset" 13
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/Wall_400x400.uasset" 14
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/Wall_500x500.uasset" 15
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 16
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 17
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Collapse01.uasset" 18
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Collapse02.uasset" 19
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Explosion01.uasset" 20
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Explosion02.uasset" 21
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Fire01.uasset" 22
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Fire_Sparks01.uasset" 23
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Light01.uasset" 24
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Light01_Cue.uasset" 25
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Light02.uasset" 26
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Light02_Cue.uasset" 27
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Smoke01.uasset" 28
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Starter_Birds01.uasset" 29
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Starter_Music01.uasset" 30
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Starter_Wind05.uasset" 31
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Starter_Wind06.uasset" 32
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Steam01.uasset" 33
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Explosion_Cue.uasset" 34
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Burst_M.uasset" 35
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/Materials/M_Burst.uasset" 36
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 37
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 38
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 40
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 41
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 42
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 43
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 44
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/P_Explosion.uasset" 45
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 46
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 47
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 48
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Bush_D.uasset" 49
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Bush_N.uasset" 50
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_Bush.uasset" 51
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_Bush.uasset" 52
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Chair_M.uasset" 53
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Chair_N.uasset" 54
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_Chair.uasset" 55
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_Couch.uasset" 56
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Glass.uasset" 57
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Door_M.uasset" 58
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Door_N.uasset" 59
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_Door.uasset" 60
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_Door.uasset" 61
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 62
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 63
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 64
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 65
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 66
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 67
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_RockMesh_M.uasset" 68
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_RockMesh_N.uasset" 69
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_Rock.uasset" 70
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_Rock.uasset" 71
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Shelf_M.uasset" 72
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Shelf_N.uasset" 73
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_Shelf.uasset" 74
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_Shelf.uasset" 75
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Basic_Floor.uasset" 76
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_Stairs.uasset" 77
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Cone.uasset" 78
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 79
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 80
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Pipe.uasset" 81
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 82
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 83
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Plane.uasset" 84
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Torus.uasset" 85
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Trim.uasset" 86
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 87
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 88
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 89
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Tube.uasset" 90
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 91
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 92
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 94
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 95
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 96
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 97
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 98
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 99
+"../../../Engine/Content/BasicShapes/Cone.uasset" 100
+"../../../Engine/Content/BasicShapes/Cube.uasset" 101
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 102
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 103
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 104
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 105
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 106
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 107
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 108
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 110
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 111
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 112
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 113
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 114
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 115
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 116
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 117
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 118
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 119
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 120
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 121
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 122
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 123
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 124
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 125
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 126
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 127
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 128
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 129
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 130
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 131
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 132
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 133
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 134
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 135
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 136
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 137
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 138
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 139
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 140
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 141
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 142
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 143
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 144
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 145
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 146
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 147
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 148
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 149
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 150
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 151
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 152
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 153
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 154
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 155
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 156
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 157
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 158
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 159
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 160
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 161
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 162
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 163
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 164
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 165
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 166
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 167
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 168
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 169
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 170
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 171
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 172
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 173
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 174
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 175
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 176
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 177
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 178
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 179
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 180
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 181
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 182
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 183
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 184
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 185
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 186
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 187
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 188
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 189
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 190
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 191
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 192
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 193
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 194
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 195
+"../../../Engine/Content/EngineResources/Black.uasset" 196
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 197
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 198
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 199
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 200
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 201
+"../../../Engine/Content/EngineSounds/Master.uasset" 202
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 203
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 204
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 205
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 206
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 207
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 208
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 209
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 210
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 211
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 212
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 213
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 214
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 215
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 216
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 217
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 218
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 219
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 220
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 221
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 222
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 224
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 225
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 226
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 227
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 228
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 229
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 230
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 231
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 232
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 233
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 234
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 235
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 236
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 237
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 238
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 239
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 240
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 241
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 242
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 243
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 244
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 245
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 246
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 247
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 248
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 249
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 250
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 251
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 252
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 253
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 254
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 255
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 256
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 257
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 258
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 259
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 260
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 261
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 262
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 263
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 264
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 265
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 266
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/LighthouseLamp.uasset" 267
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/LighthouseLampBase.uasset" 268
+"D:/Epic Games/Projects/LighthouseScene/Content/Blueprints/LampBP.uasset" 269
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/CargoShip/BoatBottom.uasset" 270
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/CargoShip/BoatDeck.uasset" 271
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/CargoShip/BoatUpper.uasset" 272
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/CargoShip/ContainerBlue.uasset" 273
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/CargoShip/ContainerGreen.uasset" 274
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/CargoShip/ContainerYellow.uasset" 275
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Motorboat/BoatWhite.uasset" 276
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/CargoShip.uasset" 277
+"D:/Epic Games/Projects/LighthouseScene/Content/ShipHorn.uasset" 278
+"D:/Epic Games/Projects/LighthouseScene/Content/Blueprints/SplineAnimationActor.uasset" 279
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Landscape/Grass_LayerInfo.uasset" 280
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Landscape/Sand_LayerInfo.uasset" 281
+"D:/Epic Games/Projects/LighthouseScene/Content/LightHouseScene_BuiltData.uasset" 282
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Landscape/LandScapeMat.uasset" 283
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/LighthouseMats/WhiteWall.uasset" 284
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/RockwallMat/RockwallMat.uasset" 285
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 286
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Water_M.uasset" 287
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Water_N.uasset" 288
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Water_Ocean.uasset" 289
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Water_Ocean_Inst.uasset" 290
+"../../../Engine/Content/BasicShapes/Plane.uasset" 291
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 292
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 293
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Motorboat/BoatMotor.uasset" 294
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Motorboat/BrownBoatSeats.uasset" 295
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/BoatSmall.uasset" 296
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Bridge.uasset" 297
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Bush.uasset" 298
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/BushClean.uasset" 299
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Grass/Bleached.uasset" 300
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/Grass/Green.uasset" 301
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Grass.uasset" 302
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/LighthouseMats/BrownPart.uasset" 303
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/LighthouseMats/DarkWindow.uasset" 304
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/LighthouseMats/RedWall.uasset" 305
+"D:/Epic Games/Projects/LighthouseScene/Content/Materials/LighthouseMats/TopWindow.uasset" 306
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Lighthouse.uasset" 307
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Rockwall.uasset" 308
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Rockwall_Corner.uasset" 309
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Rockwall_Middle.uasset" 310
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Stone_1.uasset" 311
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Stone_2.uasset" 312
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Stone_3.uasset" 313
+"D:/Epic Games/Projects/LighthouseScene/Content/Assets/Tree.uasset" 314
+"D:/Epic Games/Projects/LighthouseScene/Content/Ocean.uasset" 315
+"D:/Epic Games/Projects/LighthouseScene/Content/LightHouseScene.umap" 316
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 317
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 318
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 319
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 320
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 321
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 322
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 323
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 324
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 325
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 326
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 327
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 328
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 329
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_AssetPlatform.uasset" 330
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 331
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 332
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 333
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 334
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 335
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 336
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 337
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 338
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Maps/Advanced_Lighting.umap" 339
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 340
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_MacroVariation.uasset" 341
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 342
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 343
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 344
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 345
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 346
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Metal_Copper.uasset" 347
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Statue_M.uasset" 348
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Statue_N.uasset" 349
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 350
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/Floor_400x400.uasset" 351
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 352
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_Chair.uasset" 353
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_Statue.uasset" 354
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_Statue.uasset" 355
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_TableRound_M.uasset" 356
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_TableRound_N.uasset" 357
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_TableRound.uasset" 358
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_TableRound.uasset" 359
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Maps/Minimal_Default.umap" 360
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Fire01_Cue.uasset" 361
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 362
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 363
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 364
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 365
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 366
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/P_Fire.uasset" 367
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 368
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Smoke01_Cue.uasset" 369
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/P_Smoke.uasset" 370
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 371
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 372
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Spark_Core.uasset" 373
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/Materials/M_Spark.uasset" 374
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/P_Sparks.uasset" 375
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 376
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Steam01_Cue.uasset" 377
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/P_Steam_Lit.uasset" 378
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 379
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Lamp_M.uasset" 380
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Lamp_N.uasset" 381
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_Lamp.uasset" 382
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 383
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 384
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 385
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 386
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 388
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 389
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 390
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 391
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 392
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 393
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 394
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 395
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 396
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 397
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 398
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 399
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 400
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 401
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 402
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 403
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 404
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 405
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 406
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 407
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 408
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 409
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 410
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 411
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 412
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 413
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 414
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 415
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 416
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 417
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Gradinet_01.uasset" 418
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 419
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 420
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 421
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 422
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 423
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 424
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 425
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 426
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 427
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 428
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 429
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 430
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 431
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 432
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 433
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 434
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 435
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 436
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 437
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 438
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 439
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 440
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Ground_Grass.uasset" 441
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 442
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 443
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 444
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 445
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 446
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Ground_Moss.uasset" 447
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 448
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 449
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Metal_Gold.uasset" 450
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 451
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Metal_Rust.uasset" 452
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 453
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 454
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Metal_Steel.uasset" 455
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 456
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 457
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 458
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 459
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 460
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 461
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 462
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 463
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Rock_Slate.uasset" 464
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 465
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 466
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 467
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 468
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 469
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 470
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 471
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 472
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 473
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 474
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 475
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Tech_Panel.uasset" 476
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Water_Lake.uasset" 477
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 478
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 479
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 480
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 481
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 482
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 483
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 484
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 485
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Wood_Oak.uasset" 486
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 487
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 488
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Wood_Pine.uasset" 489
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 490
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 491
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 492
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/Wall_400x200.uasset" 493
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 494
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 495
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Collapse_Cue.uasset" 496
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 497
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 498
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 499
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 500
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/MaterialSphere.uasset" 501
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Frame_M.uasset" 502
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Textures/T_Frame_N.uasset" 503
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/Materials/M_Frame.uasset" 504
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_CornerFrame.uasset" 505
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_DoorFrame.uasset" 506
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_GlassWindow.uasset" 507
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_PillarFrame.uasset" 508
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_PillarFrame300.uasset" 509
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Props/SM_WindowFrame.uasset" 510
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Cube.uasset" 511
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 512
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Shapes/Shape_Sphere.uasset" 513
+"D:/Epic Games/Projects/LighthouseScene/Content/StarterContent/Maps/StarterMap.umap" 514
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 515
+"../../../Engine/Content/Maps/Entry.umap" 516
